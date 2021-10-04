@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "app",
-    "slug": "app",
+    "name": "appNIlson",
+    "slug": "appnilson",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   },
   "name": "app"
 }
